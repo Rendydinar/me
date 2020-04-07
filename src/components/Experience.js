@@ -7,8 +7,8 @@ export default function Experience() {
 				<div className="colorlib-narrow-content">
 					<div className="row">
 						<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-							<span className="heading-meta">Experience</span>
-							<h2 className="colorlib-heading animate-box">Work Experience</h2>
+							<span className="heading-meta">PENGALAMAN</span>
+							<h2 className="colorlib-heading animate-box">PENGALAMAN KERJA</h2>
 						</div>
 					</div>
 					<div className="row">
