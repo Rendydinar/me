@@ -14,21 +14,6 @@ export default function Experience() {
 					<div className="row">
 						<div className="col-md-12">
 				         <div className="timeline-centered">
-					         <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-					            <div className="timeline-entry-inner">
-
-					               <div className="timeline-icon color-1">
-					                  <i className="icon-pen2"></i>
-					               </div>
-
-					               <div className="timeline-label">
-					                  <h2><a href="#">Full Stack Developer</a> <span>2019-Sekarang</span></h2>
-					                  <p>Saat ini saya bekerja menjadi seorang fullstack developer. Pengalaman saya menjadi fullstack developer masih terlalu sediki tetapi sudah ada beberapa project yang saya kerjakan saat saya menjadi fullstack developer.</p>
-					               </div>
-					            </div>
-					         </article>
-
-
 					         <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
 					            <div className="timeline-entry-inner">
 					               <div className="timeline-icon color-2">
@@ -36,7 +21,7 @@ export default function Experience() {
 					               </div>
 					               <div className="timeline-label">
 					               	<h2><a href="#">Back End Developer</a> <span>2019-Sekarang</span></h2>
-					                  <p>Saya cukup berpengalaman dalam bidang back end, ada banyak project yang telah saya kerjakan dan hasilnya sangat memuaskan.</p>
+					                  <p>Saya cukup berpengalaman dalam bidang back end, ada banyak project yang telah saya kerjakan dan hasilnya sangat memuaskan. Dengan backend saya biasanya membuat API menggunakan framework ExpressJS. </p>
 					               </div>
 					            </div>
 					         </article>
@@ -47,8 +32,8 @@ export default function Experience() {
 					                  <i className="icon-pen2"></i>
 					               </div>
 					               <div className="timeline-label">
-					               	<h2><a href="#">Front End Developer</a> <span>2019-Sekarang</span></h2>
-					                  <p>Saya juga dapat bekerja di bidang front end, walaupun Pengalaman saya pada bidang front end belum terlalu banyak saya sudah mengerjakan beberapa project menggunakan sisi front end.</p>
+					               	<h2><a href="#">Front End Developer</a> <span>2020-Sekarang</span></h2>
+					                  <p>Saya juga dapat bekerja di bidang front end, walaupun Pengalaman saya pada bidang front end belum terlalu banyak saya sudah mengerjakan beberapa project menggunakan sisi front end. Saya menggunakan ReactJS.</p>
 					               </div>
 					            </div>
 					         </article>
@@ -64,31 +49,6 @@ export default function Experience() {
 					               </div>
 					            </div>
 					         </article>
-
-					         <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-					            <div className="timeline-entry-inner">
-					               <div className="timeline-icon color-5">
-					                  <i className="icon-pen2"></i>
-					               </div>
-					               <div className="timeline-label">
-					               	<h2><a href="#">Web Aplication</a> <span>2019-Sekarang</span></h2>
-					                  <p>Saya cukup berpengalaman dalam membangun aplikasi berbasis website sesuai kebutuhan pengguna.</p>
-					               </div>
-					            </div>
-					         </article>
-
-					         <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
-					            <div className="timeline-entry-inner">
-					               <div className="timeline-icon color-5">
-					                  <i className="icon-pen2"></i>
-					               </div>
-					               <div className="timeline-label">
-					               	<h2><a href="#">REST API</a> <span>2019-Sekarang</span></h2>
-					                  <p>Saya cukup berpengalaman dalam membangun REST API untuk sebuah aplikasi.</p>
-					               </div>
-					            </div>
-					         </article>
-
 
 					         <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
 					            <div className="timeline-entry-inner">

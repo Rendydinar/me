@@ -19,7 +19,7 @@ export default function Services() {
 								</span>
 								<div className="desc">
 									<h3>Web Development</h3>
-									<p>Saya bisa membuat website sesuai kebutuhan, entah itu website statis atau website dinamis.</p>
+									<p>Saya bisa membuat website sesuai kebutuhan untuk keperluan bisnis anda.</p>
 								</div>
 							</div>
 						</div>
@@ -30,18 +30,7 @@ export default function Services() {
 								</span>
 								<div className="desc">
 									<h3>Web Application</h3>
-									<p>Saya dapat membuat aplikasi berbasis web, dimana dapat digunakan di berbagai perangkat.</p>
-								</div>
-							</div>
-						</div>
-						<div className="col-md-4 text-center animate-box">
-							<div className="services color-2">
-								<span className="icon">
-									<i className="icon-data"></i>
-								</span>
-								<div className="desc">
-									<h3>Database</h3>
-									<p>Saya dapat membuat database untuk keperluan mengolah data anda.</p>
+									<p>Saya dapat membuat aplikasi berbasis website sesuai dengan kebutuhan bisnis anda.</p>
 								</div>
 							</div>
 						</div>

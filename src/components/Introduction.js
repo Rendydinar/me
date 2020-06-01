@@ -1,8 +1,7 @@
 import React from 'react'
 import profile1Img from '../img/profile1.jpg'
-import profile2Img from '../img/profile2.jpg'
 import profile3Img from '../img/about.jpg'
-
+import myCV from '../file/rendy_dinar_cv.pdf'
 
 export default function Introduction() {
 	return (
@@ -18,7 +17,7 @@ export default function Introduction() {
                     <div className="slider-text-inner js-fullheight">
                       <div className="desc">
 												<h1> Hi! <br /> I'm Rendy Dendimara</h1>
-												<p><a className="btn btn-primary btn-learn" href="https://rendydinar.github.io/" target="_blank" rel="noopener noreferrer"> View Website<i className="icon-download4" /></a></p>
+												<p><a className="btn btn-primary btn-learn" href={myCV} target="_blank" rel="noopener noreferrer"> Download My CV !<i className="icon-download4" /></a></p>
                       </div>
                     </div>
                   </div>
@@ -32,23 +31,8 @@ export default function Introduction() {
                   <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
                     <div className="slider-text-inner">
                       <div className="desc">
-												<h1>Saya Suka Membangun <br /> Sesuatu!</h1>
-												<p><a className="btn btn-primary btn-learn" href="https://github.com/Rendydinar/" target="_blank" rel="noopener noreferrer"> View Projects<i className="icon-briefcase3" /></a></p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </li>
-            <li style={{backgroundImage: `url(${profile2Img})`}}>
-              <div className="overlay" />
-              <div className="container-fluid">
-                <div className="row">
-                  <div className="col-md-6 col-md-offset-3 col-md-pull-3 col-sm-12 col-xs-12 js-fullheight slider-text">
-                    <div className="slider-text-inner">
-                      <div className="desc">
-												<h1>Saya Juga <br /> Penulis!</h1>
-												<p><a className="btn btn-primary btn-learn" href="https://r3ndydinar.blogspot.com/" target="_blank" rel="noopener noreferrer"> View Blog<i className="icon-book" /></a></p>
+												<h1>Saya Suka Membangun Sesuatu <br /> Sesuatu!</h1>
+												<p><a className="btn btn-primary btn-learn" href="https://github.com/Rendydinar/" target="_blank" rel="noopener noreferrer"> View My Projects<i className="icon-briefcase3" /></a></p>
                       </div>
                     </div>
                   </div>

@@ -17,32 +17,10 @@ export default function Skills() {
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
 							<div className="progress-wrap">
-								<h3>HTML5</h3>
-								<div className="progress">
-								 	<div className="progress-bar color-1" role="progressbar" aria-valuenow="45"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '45%'}}>
-								    <span>1 Tahun Lebih</span>
-								  	</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div className="progress-wrap">
-								<h3>CSS3</h3>
-								<div className="progress">
-								 	<div className="progress-bar color-2" role="progressbar" aria-valuenow="50"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '50%'}}>
-								    <span>1 Tahun Lebih</span>
-								  	</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
-							<div className="progress-wrap">
 								<h3>Javascript</h3>
 								<div className="progress">
-								 	<div className="progress-bar color-3" role="progressbar" aria-valuenow="70"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '70%'}}>
+								 	<div className="progress-bar color-3" role="progressbar" aria-valuenow="55"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '55%'}}>
 								    <span>1 Tahun Lebih</span>
 								  	</div>
 								</div>
@@ -50,11 +28,11 @@ export default function Skills() {
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>NodeJs/ExpressJs</h3>
+								<h3>NodeJs</h3>
 								<div className="progress">
-								 	<div className="progress-bar color-4" role="progressbar" aria-valuenow="68"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '68%'}}>
-								    <span>1 Tahun</span>
+								 	<div className="progress-bar color-4" role="progressbar" aria-valuenow="47"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '47%'}}>
+								    <span>1 Tahun Lebih</span>
 								  	</div>
 								</div>
 							</div>
@@ -65,28 +43,39 @@ export default function Skills() {
 								<div className="progress">
 								 	<div className="progress-bar color-5" role="progressbar" aria-valuenow="40"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width: '40%'}}>
-								    <span>8 Bulan</span>
+								    <span>Kurang dari 1 Tahun</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>C++</h3>
+								<h3>GatsbyJs</h3>
 								<div className="progress">
-								 	<div className="progress-bar color-7" role="progressbar" aria-valuenow="43"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '43%'}}>
-								    <span>2 Tahun Lebih</span>
+								 	<div className="progress-bar color-4" role="progressbar" aria-valuenow="45"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '45%'}}>
+								    <span>Kurang dari 1 Tahun</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>Python</h3>
+								<h3>ExpressJs</h3>
 								<div className="progress">
-								 	<div className="progress-bar color-1" role="progressbar" aria-valuenow="25"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '25%'}}>
+								 	<div className="progress-bar color-1" role="progressbar" aria-valuenow="65"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '65%'}}>
+								    <span>1 Tahun Lebih</span>
+								  	</div>
+								</div>
+							</div>
+						</div>
+						<div className="col-md-6 animate-box" data-animate-effect="fadeInLeft">
+							<div className="progress-wrap">
+								<h3>HTML5</h3>
+								<div className="progress">
+								 	<div className="progress-bar color-1" role="progressbar" aria-valuenow="40"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '40%'}}>
 								    <span>1 Tahun Lebih</span>
 								  	</div>
 								</div>
@@ -94,7 +83,7 @@ export default function Skills() {
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>MySql</h3>
+								<h3>CSS3</h3>
 								<div className="progress">
 								 	<div className="progress-bar color-2" role="progressbar" aria-valuenow="35"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width: '35%'}}>
@@ -105,22 +94,22 @@ export default function Skills() {
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>MongoDB</h3>
+								<h3>MySql</h3>
 								<div className="progress">
-								 	<div className="progress-bar color-3" role="progressbar" aria-valuenow="65"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '65%'}}>
-								    <span>1 Tahun</span>
+								 	<div className="progress-bar color-2" role="progressbar" aria-valuenow="30"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '30%'}}>
+								    <span>1 Tahun Lebih</span>
 								  	</div>
 								</div>
 							</div>
 						</div>
 						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
 							<div className="progress-wrap">
-								<h3>GatsbyJs</h3>
+								<h3>MongoDB</h3>
 								<div className="progress">
-								 	<div className="progress-bar color-4" role="progressbar" aria-valuenow="55"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '55%'}}>
-								    <span>6 Bulan</span>
+								 	<div className="progress-bar color-3" role="progressbar" aria-valuenow="35"
+								  	aria-valuemin="0" aria-valuemax="100" style={{width: '35%'}}>
+								    <span>Kurang dari 1 Tahun</span>
 								  	</div>
 								</div>
 							</div>
@@ -132,39 +121,6 @@ export default function Skills() {
 								 	<div className="progress-bar color-5" role="progressbar" aria-valuenow="60"
 								  	aria-valuemin="0" aria-valuemax="100" style={{width: '60%'}}>
 								    <span>1 Tahun Lebih</span>
-								  	</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div className="progress-wrap">
-								<h3>Materialize</h3>
-								<div className="progress">			
-								 	<div className="progress-bar color-6" role="progressbar" aria-valuenow="50"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '50%'}}>
-								    <span>8 Bulan</span>
-								  	</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div className="progress-wrap">
-								<h3>REST API</h3>
-								<div className="progress">
-								 	<div className="progress-bar color-7" role="progressbar" aria-valuenow="77"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '77%'}}>
-								    <span>10 Bulan</span>
-								  	</div>
-								</div>
-							</div>
-						</div>
-						<div className="col-md-6 animate-box" data-animate-effect="fadeInRight">
-							<div className="progress-wrap">
-								<h3>Web Security</h3>
-								<div className="progress">
-								 	<div className="progress-bar color-2" role="progressbar" aria-valuenow="30"
-								  	aria-valuemin="0" aria-valuemax="100" style={{width: '30%'}}>
-								    <span>1 Tahun lebih</span>
 								  	</div>
 								</div>
 							</div>

@@ -30,20 +30,6 @@ export default function About() {
 									<h3>Web Application</h3>
 								</div>
 							</div>
-							<div className="col-md-3 animate-box" data-animate-effect="fadeInTop">
-								<div className="services color-3">
-									<span className="icon2"><i className="icon-data"></i></span>
-									<h3>Databases</h3>
-								</div>
-							</div>
-						</div>
-						<div className="row">
-							<div className="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-								<div className="hire">
-									<h2>Saya senang memberitahukan Anda bahwa 100+ project dilakukan dengan sukses!</h2>
-									{/*<a href="#" className="btn-hire">Hire me</a>*/}
-								</div>
-							</div>
 						</div>
 					</div>
 				</div>
